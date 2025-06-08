@@ -1,0 +1,9 @@
+# Java + IDE
+bin/
+.settings/
+.classpath
+.project
+*.class
+# OS / IDE divers
+.DS_Store
+.idea/
