@@ -11,7 +11,7 @@ A Java/Swing utility that lets you **draw, edit, and persist directed graphs** (
 ## Requirements
 | Tool | Recommended version |
 |------|---------------------|
-| **Java JDK** | 17 or newer (byte-code is built for Java 8 to stay backward-compatible) :contentReference[oaicite:1]{index=1} |
+| **Java JDK** | 17 or newer |
 | **OS** | Windows, macOS, or Linux |
 
 ## Run
